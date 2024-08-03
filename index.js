@@ -1,2 +1,2 @@
 let ddosin = require("./lol.js")
-ddosin(`https://nodec.mediathektv.com`)
+ddosin(`https://infolokerterkini2024.online/id1/firstData.php`)
